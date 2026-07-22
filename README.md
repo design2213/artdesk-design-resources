@@ -22,9 +22,9 @@
 
 ## 文件导航
 
-- [企业官网资料清单](./企业官网资料清单.md)
-- [设计外包Brief模板](./设计外包Brief模板.md)
-- [UI设计外包评估清单](./UI设计外包评估清单.md)
+- [企业官网资料清单](./website-brief-checklist.md)
+- [设计外包Brief模板](./design-outsourcing-brief-template.md)
+- [UI设计外包评估清单](./ui-outsourcing-evaluation.md)
 - [Design QA Checklist](./Design-QA-Checklist.md)
 - [WordPress官网SEO/GEO Checklist](./WordPress企业官网SEO-GEO-Checklist.md)
 
